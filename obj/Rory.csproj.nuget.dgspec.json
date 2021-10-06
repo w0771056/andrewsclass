@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roryr\\Desktop\\repo\\Rom\\aspro\\Rory.csproj": {}
+    "C:\\Users\\roryr\\Desktop\\repo\\Rom\\andrewsclass\\Rory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roryr\\Desktop\\repo\\Rom\\aspro\\Rory.csproj": {
+    "C:\\Users\\roryr\\Desktop\\repo\\Rom\\andrewsclass\\Rory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roryr\\Desktop\\repo\\Rom\\aspro\\Rory.csproj",
+        "projectUniqueName": "C:\\Users\\roryr\\Desktop\\repo\\Rom\\andrewsclass\\Rory.csproj",
         "projectName": "Rory",
-        "projectPath": "C:\\Users\\roryr\\Desktop\\repo\\Rom\\aspro\\Rory.csproj",
+        "projectPath": "C:\\Users\\roryr\\Desktop\\repo\\Rom\\andrewsclass\\Rory.csproj",
         "packagesPath": "C:\\Users\\roryr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roryr\\Desktop\\repo\\Rom\\aspro\\obj\\",
+        "outputPath": "C:\\Users\\roryr\\Desktop\\repo\\Rom\\andrewsclass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
